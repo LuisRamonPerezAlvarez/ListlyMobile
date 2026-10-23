@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "name": "Listly",
+    "slug": "listly-mobile",
+    "scheme": "listly",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "automatic",
+    "plugins": ["expo-router"],
+    "experiments": { "typedRoutes": true }
+  }
+}
